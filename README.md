@@ -81,7 +81,7 @@ These rasters are intended for:
 
 Below is an example of the final cartographic output created from the exported GeoTIFFs in ArcGIS Pro.
 
-![Spatial distribution of SO2 over Poland](so2_poland_output.png)
+![Spatial distribution of SO2 over Poland](so2.png)
 
 *Figure: Spatial distribution of SO₂ over Poland for selected years.*
 
